@@ -1,0 +1,1184 @@
+
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 8']
+Type : []
+Full sentence : 
+Not just because doing
+so successfully is a precondition for countries to
+focus properly on other priorities of economic
+growth, health and education for all citizens.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 9', 'SDG 11']
+Type : []
+Full sentence : 
+85% of Africans speak 15 core languages
+Land rights in the Philippines
+
+68
+
+63
+
+96
+
+70
+
+78
+
+59
+
+61
+
+94
+
+95
+
+80
+
+99
+
+103
+
+104
+
+83
+
+90
+
+101
+
+TABLES
+2.1
+2.2
+
+Political representation of ethnic minorities in selected OECD parliaments
+Integrating multicultural policies into human development strategies
+37
+
+35
+
+xi
+
+3.1
+4.1
+5.1
+5.2
+5.3
+
+Indicators of internal output and costs of conventional and bilingual schools in Burkina Faso
+Casualties resulting from sectarian violence in Pakistan, 1989–2003
+Indigenous population in Latin America 
+Policy choices for the promotion of the domestic film and audiovisual industry—market and industry size matter
+Top 10 cities by share of foreign born population, 2000/01
+
+99
+
+75
+
+62
+
+92
+
+FIGURES
+2.1 Most countries are culturally diverse
+2.2
+2.3
+
+28
+Indigenous people can expect a shorter life
+Europe’s non-European migrant population has increased significantly .
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 4']
+Type : []
+Full sentence : 
+86
+
+Table 1 Top 10 countries by share of migrant population, 2000
+Figure 1 Rapid increases in investments in extractive industries in developing countries, 1988–97
+Figure 2 Fewer domestic films, more US films: evolving film attendance, 1984–2001
+
+87
+
+87
+
+86
+
+Statistical feature 1 The state of human development
+
+127
+
+Table 1 HDI, HPI-1, HPI-2, GDI—same components, different measurements
+Table 2 Eliminating poverty: massive deprivation remains, 2000
+
+129
+
+127
+
+xii
+
+132
+
+132
+
+132
+
+Table 3 Progress and setbacks: child mortality
+Table 4 Progress and setbacks: primary education
+Table 5 Progress and setbacks: income poverty
+Table 6 Countries experiencing a drop in the human development index, 1980s and 1990s
+Figure 1 Same HDI, different income
+Figure 2 Same income, different HDI
+Figure 3 Not enough progress towards the Millennium Development Goals
+Figure 4 Timeline: when will the Millennium Development Goals be achieved if progress does not accelerate?
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 6']
+Type : []
+Full sentence : 
+5
+6
+7
+8
+9
+
+Demographic trends
+Commitment to health: resources, access and services
+Water, sanitation and nutritional status
+Leading global health crises and risks
+168
+Survival: progress and setbacks
+
+164
+
+160
+
+156
+
+.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 5']
+Type : []
+Full sentence : 
+They are
+not acceptable reasons for allowing practices that
+deny individuals equality of opportunity and vi-
+olate  their  human  rights—such  as  denying
+women equal rights to education.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+OVERVIEW
+
+5
+
+Cultural liberty is a
+human right and an
+important aspect of
+human development—
+and thus worthy of state
+action and attention 
+
+Human development requires more than
+health, education, a decent standard of living
+and political freedom.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+Cultural liberty is about allowing people
+the freedom to choose their identities—and to
+lead the lives they value—without being ex-
+cluded from other choices important to them
+(such as those for education, health or job op-
+portunities).
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 5']
+Type : []
+Full sentence : 
+Cultural liberty will not just happen, any more
+than health, education and gender equity just
+happen.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+Socio-economic policies
+
+Socio-economic injustices and inequalities in in-
+come, education and health outcomes have been
+the defining feature of many multi-ethnic societies
+
+with marginal groups—blacks in South Africa and
+indigenous people in Guatemala and Canada.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+Redressing biases in public spending as well
+as targeting basic services to people with lower
+health and education outcomes would help—but
+would not be enough.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 4']
+Type : ['Recommendation']
+Full sentence : 
+In India the
+allocation of government jobs, admission to
+higher education and legislative seats to sched-
+uled castes and tribes has helped members of
+these groups climb out of poverty and join the
+middle class.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 10']
+Type : ['Causal']
+Full sentence : 
+The underlying causes for the rise of move-
+ments for cultural domination often include ma-
+nipulative leadership, poverty and inequality,
+weak or ineffectual states, outside political in-
+terventions and linkages with the diaspora.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 2']
+Type : []
+Full sentence : 
+Smith argued not only that poverty takes the
+gross shape of hunger and physical deprivation,
+but that it can also arise in the difficulties that some
+groups experience in taking part in the social
+and cultural life of the community.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 8']
+Type : []
+Full sentence : 
+The primary basis of discrimination in many
+cases of participation exclusion is the cultural
+affiliation of the people involved, resulting in
+their exclusion from participation in education
+or employment or political decision-making.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 5', 'SDG 8', 'SDG 16']
+Type : []
+Full sentence : 
+Living mode exclusion can be a serious area
+of injustice.2 This has been the subject of much
+recent work, including what is called the “pol-
+itics of recognition”, which includes “claims
+for the recognition of the distinctive perspectives
+of ethnic, ‘racial,’ and sexual minorities, as well
+as of gender difference”.3 These considerations
+are indeed important for an adequately broad
+view of justice, but in the context of human de-
+velopment they are most immediately seen as rel-
+evant  to  the  exercise  of  cultural  liberty,
+which—like other freedoms—must figure in
+the assessment of human development and in
+the appraisal of its lapses.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 8']
+Type : []
+Full sentence : 
+South Koreans val-
+ued thrift, investment, hard work, education, or-
+ganization, and discipline.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 8', 'SDG 16']
+Type : []
+Full sentence : 
+And many states
+fear that recognizing diverse identities gets in the
+way of other important objectives: state unity,
+economic growth, development, democracy,
+peace and stability.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 8']
+Type : ['Constraint']
+Full sentence : 
+Much work on human
+development—including the human develop-
+ment index and previous Human  Develop-
+ment Reports—has focused on greater access
+to health and education, on pro-poor economic
+growth and on democratization as the main
+challenges.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 5', 'SDG 8']
+Type : []
+Full sentence : 
+Though slow to start, the work of human
+rights  bodies  has  made  important  strides  in
+clarifying the elements of human rights to par-
+ticipate in cultural life, including equality and
+non-discrimination, freedom from interference
+in the enjoyment of cultural life and the free-
+dom to create and contribute to it, freedom to
+choose in which culture and which cultural life
+to  participate,  freedom  to  disseminate,  free-
+dom to cooperate internationally and freedom
+to participate in the definition and implemen-
+tation  of  policies  on  culture.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+They also suffer from sub-
+standard health and living conditions.5 Only one
+in three Roma children in Serbia and Monte-
+negro has ever attended primary school, and no
+more than 0.4% of Serbian Roma have a univer-
+sity education.6 Often perceived as lazy, unclean,
+uneducated and petty thieves, Roma dispropor-
+tionately suffer violent attacks in countries such
+as Bulgaria, the Czech Republic and Slovakia.7
+Indigenous  people.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 3', 'SDG 4']
+Type : ['Constraint']
+Full sentence : 
+The world’s indigenous people share many
+challenges, such as poverty and poor health (fig-
+ure 2.2) and education.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+This uncertainty affects their civic par-
+ticipation, such as receiving health and education
+services, being able to drive legally and being
+able to enter the workforce without being sub-
+jected to discrimination.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : ['Constraint']
+Full sentence : 
+Unlike some other aspects of human develop-
+ment, such as health and education, where many
+countries  face  common  challenges,  the  chal-
+lenges  in  dealing  with  cultural  exclusion  are
+more diverse.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 16']
+Type : []
+Full sentence : 
+Limitations on people’s ability to use their
+mother tongue—and limited facility in speaking
+the dominant or official national language—
+can exclude people from education, political
+life and access to justice.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+The same patterns are found in health and
+education.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+While creat-
+ing a similar index for cultural liberty (see
+box 2.3) or including cultural liberty in the
+human development index is not possible,
+disaggregating  the  human  development
+index by ethnic, linguistic or religious groups
+can shed some light on exclusion in health,
+education and income.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 3']
+Type : []
+Full sentence : 
+Focusing
+internal and external resources on health and ed-
+ucation is the first step out of the poverty trap.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 10']
+Type : ['Recommendation']
+Full sentence : 
+In Ecuador, too, in-
+digenous groups mobilized around issues of
+poverty and inequality and joined other groups
+in  protest  against  the  government  of  Jamil
+Mahuad, who was forced to resign in January
+2000.81 In some cases groups have been both eco-
+nomically and politically deprived (as in Mexico
+and South Africa), while in others a group may
+be politically dominant yet economically de-
+prived (as in Malaysia, Sri Lanka and Uganda).
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 2', 'SDG 4']
+Type : []
+Full sentence : 
+Our goal was to banish hunger,
+illiteracy and homelessness and ensure that every-
+one had access to food, education and housing.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 8']
+Type : []
+Full sentence : 
+The picture was
+similar for health spending in 1988, which was
+
+18% in the regions of the Kenyatta coalition
+and 49% in the regions of the Moi coalition.85
+The way to overall economic growth, and to
+high  levels  of  health  and  education,  is  to
+formulate policies for the country, not for in-
+terest groups.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 8']
+Type : []
+Full sentence : 
+CHALLENGES FOR CULTURAL LIBERTY
+
+43
+
+Attempts to suppress and
+assimilate diverse cultural
+groups are not only
+morally wrong—they are
+often ineffective,
+heightening tensions 
+
+Malaysia, with 62% of its people Malays and
+other indigenous groups, 30% ethnic Chinese
+and 8% Indian, was the world’s 10th fastest
+growing economy during 1970–90, years when
+it implemented a broad range of affirmative ac-
+tion policies.86 India has managed its diverse cul-
+tures with pluralist policies and 15 official
+languages—and made remarkable progress in
+economic growth and in health and education.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 16']
+Type : []
+Full sentence : 
+• Adoption of official-language laws, which de-
+fine the dominant group’s language as the
+only official national language to be used in
+the bureaucracy, courts, public services, the
+army,  higher  education  and  other  official
+institutions.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 16']
+Type : []
+Full sentence : 
+It becomes a way
+of excluding people from politics, education, ac-
+cess to justice and many other aspects of civic
+life.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 12']
+Type : []
+Full sentence : 
+It stimulates the production of school and
+cultural materials in the second language, broad-
+ening the body of knowledge and facilitating
+learners’ integration into social and cultural life.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 8']
+Type : []
+Full sentence : 
+If linguists across national boundaries
+in Sub-Saharan Africa were to work to-
+gether to standardize vocabularies, it would
+be possible to use these languages to teach
+not just in the first three grades of primary
+school, but eventually in higher grades.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 8', 'SDG 16']
+Type : []
+Full sentence : 
+Many state institutions will need to
+work to implement this, but some, including
+my own Office, do this already.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 9']
+Type : []
+Full sentence : 
+A World Bank study in Bolivia, Guatemala,
+Mexico and Peru suggests that if human capi-
+tal characteristics (health and education ser-
+vices and their use) were equalized, much of the
+earnings differential between indigenous and
+non-indigenous workers would disappear.52
+Distance cannot excuse a failure to provide ser-
+vices: if logging and mining infrastructure can
+
+be provided in the remotest corners of the Ama-
+zon basin, so can social infrastructure.53
+
+In many countries public spending in basic
+social  services  systematically  discriminates
+against minorities and indigenous people.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 11']
+Type : []
+Full sentence : 
+The Brazilian gov-
+ernment spent $7 per capita on health care for
+the indigenous population, compared with $33
+on average for the country.54 Indigenous peo-
+ple may also be underserved because health in-
+frastructure  and  medical  personnel  are
+concentrated in urban areas.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 15']
+Type : []
+Full sentence : 
+In Mexico there are 79 hospi-
+tal beds and 96 doctors per 100,000 people on
+a national level, but the number of hospital
+beds falls to 8 and doctors to 14 per 100,000 in
+areas where indigenous people constitute more
+than two-fifths of the population.55
+
+In Bolivia and Peru surveys show that in-
+digenous people are more likely to have been
+sick  in  the  previous  month  than  are  non-
+indigenous people but are much less likely to
+consult a physician.56 Poorer uptake of health
+services by indigenous people may sometimes
+reflect their view that the services are culturally
+inappropriate because they fail to consider the
+spiritual dimensions of good health or fail to in-
+corporate their traditional medicine, based on
+herbs and other plants.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 11']
+Type : []
+Full sentence : 
+A study in Kenya
+finds lower primary school funding in more eth-
+nically diverse districts.57 Using a sample of US
+cities, one study finds that the level and variety
+of public goods provided worsens as ethnic di-
+versity increases.58 Another US study shows that
+individuals’ support for public welfare spending
+increases if a larger fraction of welfare recipients
+in their area belong to their racial group.59 So,
+even though comparatively disadvantaged mi-
+norities or groups may need favourable public
+policies to enable them to escape deprivation,
+such policies may not be forthcoming because of
+the absence of a national consensus and the re-
+quired tax base to finance such policies.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 6', 'SDG 15']
+Type : []
+Full sentence : 
+These claims
+have to be recognized for what they are: claims
+for who owns the land and the right to use its soil
+and resources (water, minerals, plants, forests).
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 6', 'SDG 15']
+Type : []
+Full sentence : 
+It is cov-
+eted for its mineral wealth, its oil deposits, its
+pastures, its forests, its medicinal plants, its suit-
+ability for commercial plantations, its water re-
+sources or its tourist potential.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 8', 'SDG 11', 'SDG 12']
+Type : []
+Full sentence : 
+68
+
+HUMAN DEVELOPMENT REPORT 2004
+
+Relying only on general
+policies of economic
+growth with equity for
+removing such group
+inequalities would take an
+insupportably long time,
+leading to resentment or
+even civil conflict 
+
+surplus for export and urban consumption ig-
+nores the well established research in agricultural
+economics: that small farms are more efficient
+than large ones.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 5']
+Type : []
+Full sentence : 
+100
+
+t
+n
+e
+c
+r
+e
+P
+
+80
+
+60
+
+40
+
+20
+
+0
+
+51.2
+
+Top 20%
+
+50.5
+
+35.0
+
+Middle 40%
+
+35.5
+
+13.8
+
+Bottom 40%
+
+14.0
+
+1987
+
+1999
+
+Figure
+3.4
+
+10
+
+t
+n
+e
+c
+r
+e
+P
+
+5
+
+0
+
+The record of affirmative action in the United States is mixed
+
+Report card on equality
+
+Life expectancy (years)
+Maternal deaths (per thousand births)
+Infant mortality rate (per thousand births)
+People below the poverty line (percent)
+Unemployment rate (16 and older)
+Unemployment rate (16- to 19-year-olds)
+
+Blacks as share of professionals (percent)
+1978
+2003
+
+Circa 1980
+
+Circa 2000
+
+White  
+ 74.4  
+  6.7  
+ 10.9  
+ 10.2  
+  6.3  
+ 15.5  
+
+Black  
+68.1  
+21.5  
+22.2  
+32.5  
+14.3  
+38.5  
+
+White  
+77.7  
+5.1  
+5.2  
+9.5  
+3.5  
+11.4  
+
+Black
+72.2
+17.1
+14
+22.5
+7.6
+24.5
+
+5.1
+
+1.2
+Lawyers and judges
+
+5.6
+
+5.5
+
+2.0
+
+Physicians
+
+1.1
+
+Engineers
+
+6.1
+
+2.6
+
+Professors
+
+Source:
+
+U.S. Census Bureau 2004b; U.S. Department of Labor 2004.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 8', 'SDG 16']
+Type : []
+Full sentence : 
+It seeks an Egypt governed by Sharia
+
+law, while emphasizing the need to work within
+the institutions of democracy.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 16', 'SDG 17']
+Type : []
+Full sentence : 
+The
+problem can be resolved only through peace, sta-
+bility, agreement, consensus and partnership.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 8', 'SDG 9', 'SDG 15']
+Type : []
+Full sentence : 
+Indigenous  people  have  a  rich  resource  of
+traditional  knowledge—about  plants  with
+
+Flows of cultural goods—films and other
+audiovisual products
+The controversy over cultural goods in inter-
+national trade and investment agreements has
+intensified because of exponential growth in
+the quantity of trade, increasing concentration
+of the film industry in Hollywood and the grow-
+ing influence of films and entertainment on
+youth lifestyles.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 9', 'SDG 12']
+Type : []
+Full sentence : 
+Of global production
+of more than 3,000 films a year Hollywood ac-
+counted for more than 35% of total industry
+revenues.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 8', 'SDG 9']
+Type : ['Recommendation']
+Full sentence : 
+Based on dis-
+cussions with governments, non-governmental
+organizations, indigenous people’s organiza-
+tions, industry, labour unions and academia,
+the 2004 report recommends pro-poor public
+and corporate governance, effective social and
+environmental policies and respect for human
+
+GLOBALIZATION AND CULTURAL CHOICE
+
+93
+
+BOX 5.3
+
+Private companies and indigenous people can work together for development
+
+Is it possible for private companies to work co-
+operatively with indigenous people and to gain
+in the process?
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 8']
+Type : []
+Full sentence : 
+Opportunities for bene-
+fit sharing in extractive industries are exten-
+sive, including education, training, preferential
+employment for local people, financial com-
+pensation, business opportunities and environ-
+mental commitments.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 9', 'SDG 12']
+Type : ['Constraint']
+Full sentence : 
+National legal protectionism could
+impede international free film trade
+
+Specialized taxation incentives to
+encourage independent film-makers
+and specialized distributors to make
+more films
+
+New international legal frameworks
+to allow better and more balanced
+exchanges, expanding national
+production capacities
+
+Small domestic markets reflect a
+structural lack of investment in the film
+industry, limiting the number of
+national productions; unfair
+asymmetric international trade
+practices also diminish domestic
+production
+
+As with communications and computer
+technologies, digital technologies can
+create new and less expensive
+production opportunities, thus
+overcoming distribution and
+production bottlenecks
+
+98
+
+HUMAN DEVELOPMENT REPORT 2004
+
+films annually (box 5.6 and feature 5.1).13, 14 The
+French-German worldwide success, Le Fabuleux
+Destin d’Amélie Poulain, shows the possibili-
+ties for cross-border co-productions.15
+
+Studios and equipment can also be sup-
+ported.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 6']
+Type : []
+Full sentence : 
+152
+
+5 Demographic trends
+6 Commitment to health: resources, access and services
+7 Water, sanitation and nutritional status
+8 Leading global health crises and risks
+9 Survival: progress and setbacks
+
+164
+
+160
+
+168
+
+156
+
+III.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 4', 'SDG 8', 'SDG 10']
+Type : []
+Full sentence : 
+AND ACHIEVING EQUALITY FOR ALL WOMEN AND MEN
+
+217
+
+24  Gender-related development index
+221
+25  Gender empowerment measure
+26  Gender inequality in education
+225
+27  Gender inequality in economic activity
+28  Gender, work burden and time allocation
+29 Women’s political participation
+
+234
+
+229
+
+233
+
+VIII.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 5']
+Type : []
+Full sentence : 
+For  this  purpose  Human  Develop-
+ment Reports have since their inception pub-
+lished  the  human  development  index,  later
+complemented by indices looking specifically
+at gender (gender-related development index
+and  gender  empowerment  measure)  and
+poverty (human poverty index; table 1).
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 5', 'SDG 10']
+Type : []
+Full sentence : 
+It is sim-
+ply the HDI adjusted downward for gender
+inequality.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 5', 'SDG 10']
+Type : []
+Full sentence : 
+It focuses on gender inequality in
+key areas of economic and political participation
+and decision-making.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 16']
+Type : []
+Full sentence : 
+The 189 countries at the sum-
+mit  adopted  the  Millennium  Declaration,
+committing themselves to do their utmost to
+achieve key objectives of humanity in the 21st
+century,  including  eradicating  poverty,  pro-
+moting  human  dignity  and  achieving  peace,
+democracy and environmental sustainability.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 2', 'SDG 4', 'SDG 5', 'SDG 6']
+Type : []
+Full sentence : 
+World Bank 2003a (income); FAO 2003, World Bank 2004f (hunger); UNESCO 2003 (primary education); UNESCO 2003 (gender equality); UN 2003, World Bank 2004f (child mortality); World Bank 2004f (access to 
+water); World Bank 2004f (access to sanitation).
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 2', 'SDG 6']
+Type : []
+Full sentence : 
+Only two of the goals, halving
+income poverty and halving the proportion of
+people  without  access  to  safe  water,  will  be
+met at the pace of progress of the last decade,
+and progress on the others, hunger reduction
+and access to sanitation, is nearly on track (fig-
+ure 4).
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 2']
+Type : []
+Full sentence : 
+Moderate
+
+Slow or
+reversing
+Progress towards the goal
+
+Fast
+
+134
+
+HUMAN DEVELOPMENT REPORT 2004
+
+Index to Millennium Development Goal indicators in the indicator tables
+
+Goals and targets
+
+Indicators for monitoring progress
+
+Indicator table
+
+Goal 1 Eradicate extreme poverty and hunger
+Target 1
+Halve, between 1990 and 2015, the proportion of people 
+
+whose income is less than $1 a day
+
+1.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 2', 'SDG 4', 'SDG 7', 'SDG 12']
+Type : []
+Full sentence : 
+Proportion of population below minimum level of dietary
+
+who suffer from hunger
+
+energy consumption
+
+Goal 2 Achieve universal primary education
+Target 3
+Ensure that, by 2015, children everywhere, boys and girls alike, 7.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 5']
+Type : []
+Full sentence : 
+Literacy rate of 15- to 24-year-olds
+
+Goal 3 Promote gender equality and empower women
+Target 4
+Eliminate gender disparity in primary and secondary 
+education, preferably by 2005, and to all levels of 
+education no later than 2015
+
+Goal 4 Reduce child mortality
+Target 5
+Reduce by two thirds, between 1990 and 2015, the 
+
+under-five mortality rate
+
+Goal 5 Improve maternal health
+Target 6
+Reduce by three quarters, between 1990 and 2015, the 
+
+maternal mortality ratio
+
+Goal 6 Combat HIV/AIDS, malaria and other diseases
+Target 7
+Have halted by 2015 and begun to reverse the spread 
+
+of HIV/AIDS
+
+9.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 6', 'SDG 11']
+Type : []
+Full sentence : 
+Proportion of population with sustainable access to an improved
+
+water source, urban and rural
+
+access to safe drinking water and sanitation
+
+31.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 6', 'SDG 11']
+Type : []
+Full sentence : 
+Proportion of population with access to improved sanitation, 
+
+urban and rural
+
+32.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 1', 'SDG 17']
+Type : []
+Full sentence : 
+Proportion of households with access to secure tenure
+
+21 10
+
+7 11, 33 11
+
+7 12
+
+Target 11
+By 2020 to have achieved a significant improvement in the 
+
+lives of at least 100 million slum dwellers
+
+Goal 8 Develop a global partnership for development
+Target 12
+Develop further an open, rule-based, predictable, 
+non-discriminatory trading and financial system
+
+Includes a commitment to good governance, development, 
+
+and poverty reduction—both nationally and 
+internationally
+
+Target 13
+Address the special needs of the least developed countries
+Includes: tariff and quota-free access for least-developed 
+
+Official development assistance
+33.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4', 'SDG 6']
+Type : []
+Full sentence : 
+Proportion of total bilateral, sector-allocable ODA of OECD/DAC 
+donors to basic social services (basic education, primary health care, 
+nutrition, safe water and sanitation)
+
+35.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 6', 'SDG 11']
+Type : []
+Full sentence : 
+Tables 7 and
+33 include data on population with sustainable access to an improved water source for urban and rural combined.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 6', 'SDG 11']
+Type : []
+Full sentence : 
+Table includes data on population with sustainable access to improved sanitation for urban and rural combined.
+
+File of Origin : hdr_2004_complete.pdf.txt
+Sentence Matches : ['SDG 3', 'SDG 4']
+Type : []
+Full sentence : 
+Even when used to capture access to
+education opportunities, it can hide important
+differences among countries because of differ-
+ences in the age range corresponding to a level
+
+While the concept of human development
+is much broader than any single composite index
+can measure, the HDI offers a powerful alter-
+native to income as a summary measure of human
+well-being.
