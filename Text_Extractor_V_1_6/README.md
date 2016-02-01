@@ -9,6 +9,10 @@ Created on Mon Dec 21 21:01:42 2015
 > Install packages pdfminer nltk scikit-learn nltk.punkt
 Notes: to have the full NTK you might need to run at the Python console "nltk.download()" 
 
+You can also use the istall_dependencies.py scipt by running:
+
+$sudo python install_dependencies.py
+
 >Create folders:
     originals
     fixed_name
@@ -26,5 +30,12 @@ Alternative: If you want to extract your own text, do:
 
 2) Finally to get the results, open the file:
 "links_sdg_11.py" and run it or from linux: "python links_sdg_11.py"
-This will save the results in: ./output/results.txt
+This will either 
+> save the results in: ./output/results.txt
+or
+> store the results in an Apache Solr server
+
+Note: Before running links_sdg_11.py open it in an editor and configure 
+whether you want the output to text file or Solr (for this option enter your server name).
+
 

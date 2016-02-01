@@ -10,7 +10,7 @@ from random import randint
 #file and folders
 
 search_collection = 'linksdgs'
-search_server = 'http://yourhost......./solr/' + str(search_collection)
+search_server = 'http://your_solr_host__/solr/' + str(search_collection)
 
 #########################################
 

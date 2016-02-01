@@ -37,4 +37,4 @@ data = [
     link_count("SDG 17")
     ]
     
-print data   #copy the results from the screen into the file matrix.json , configure the colors in the file cities.csv
+print data   #copy the results from the screen into the file ../static/d3_chord/matrix.json , configure the colors in the file cities.csv in that same folder.

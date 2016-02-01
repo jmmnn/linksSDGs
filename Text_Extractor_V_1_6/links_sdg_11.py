@@ -20,7 +20,7 @@ destination = './output/'
 results_filename = 'results_' + str(datetime.datetime.now()) + '.txt'
 file_filter = '*.txt'
 search_collection = 'linksdgs'
-search_server = 'http://solr4-jmmnn-1.c9users.io/solr/' + str(search_collection)
+search_server = 'http://your_solr_host__/solr/' + str(search_collection)
 
 #########################################
 
