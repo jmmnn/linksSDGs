@@ -10,7 +10,7 @@ import json
 import solr
 
 #### Configuring this app and its associated servers
-search_host = 'http://solr4-jmmnn-1.c9users.io/solr/'   # Full address of the solr search server
+search_host = 'http://localhost:8081/solr/'   # Full address of the solr search server
 flask_port = 8080   #port for the web app
 
 #### Begins web app
