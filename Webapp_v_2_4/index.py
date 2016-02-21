@@ -9,13 +9,18 @@ import json
 #import urllib2
 import solr
 
+#### Configuring this app and its associated servers
+search_host = 'http://solr4-jmmnn-1.c9users.io/solr/'   # Full address of the solr search server
+flask_port = 8080   #port for the web app
+
+#### Begins web app
 app = Flask(__name__)
 
 def get_result(raw_query , fquery): 
     query = '+'.join(raw_query.split())
     fquery = fquery
     search_collection = 'linksdgs'
-    search_server = 'http://solr4-jmmnn-1.c9users.io/solr/' + str(search_collection)
+    search_server = search_host + str(search_collection)
     s = solr.SolrConnection(search_server)
     response = s.select(query , facet='true' , facet_field=['SDG' , 'Publication'] , rows=75 , fq=fquery)
     sdg_facet = response.facet_counts['facet_fields']['SDG']
@@ -23,7 +28,6 @@ def get_result(raw_query , fquery):
     result_list = response.results
     numFound = response.numFound
     header = response.header
-    
     chart_data = json.dumps(sdg_facet)
         
     serie = []
@@ -56,7 +60,7 @@ def data(rows_returned):
     search = request.args.get("search")
     query = search
     search_collection = 'linksdgs'
-    search_server = 'http://solr4-jmmnn-1.c9users.io/solr/' + str(search_collection)
+    search_server = search_host + str(search_collection)
     s = solr.SolrConnection(search_server)
     response = s.select(query , rows=rows_returned)
     return render_template("data.json", response=response)
@@ -65,19 +69,16 @@ def data(rows_returned):
 def data2():
     row = request.args.get("row")
     query = request.args.get("query")
-    
     search_collection = 'linksdgs'
-    search_server = 'http://solr4-jmmnn-1.c9users.io/solr/' + str(search_collection)
+    search_server = search_host + str(search_collection)
     s = solr.SolrConnection(search_server)
     response = s.select('india' , rows=10)
-    
     return render_template("data2.json", response=response)
-
 
 @app.route("/sigma")
 def sigma():
     return render_template("sigma.html")
 
 if __name__ == '__main__':
-    port = int(os.environ.get('PORT', 8080))
+    port = int(os.environ.get('PORT', flask_port))
     app.run(host='0.0.0.0', port=port, debug=True)

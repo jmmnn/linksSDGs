@@ -8,10 +8,11 @@ import sys
 #List commands to execute here.
 
 SOLRPY = "sudo pip install -U solrpy"
+FLASK = "sudo pip install -U flask"
 
 
 #order commands in sequence
-cmds = [SOLRPY]
+cmds = [SOLRPY, FLASK]
 
 #Iterates over list, running statements for each item in the list
 count=0
