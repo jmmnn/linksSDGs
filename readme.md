@@ -18,7 +18,7 @@ To implement this solution:
 
 6) Bring the entire solution to your server: $ git clone https://github.com/jmmnn/linksSDGs.git
 
-7) Start solr: $ python linksSDGs/solr_start.py
+7) Start solr: $ python linksSDGs/start_solr.py
 
 8) Start the Webapp $ nohup python linksSDGs/Webapp_V_2_4/index.py &
 
