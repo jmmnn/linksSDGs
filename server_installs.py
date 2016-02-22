@@ -17,11 +17,11 @@ UNZIP = "sudo apt-get install unzip"
 #######  Solr install and start
 #Solr configurations
 collection = "linksdgs"
-port = "8080"
+solr_port = "8081"
 
 GETSOLR = "wget http://archive.apache.org/dist/lucene/solr/5.4.0//solr-5.4.0.tgz"
 UNPAKSOLR = "tar -xvf solr-5.4.0.tgz"
-STARTSOLR = "bin/solr start -p " + port
+STARTSOLR = "bin/solr start -p " + solr_port
 CREATE_COLLECTION = "bin/solr create -c " + collection
 
 
@@ -37,15 +37,15 @@ cmds = [
     GIT,
     PIP,
     JAVA,
-    GETSOLR,
-    UNPAKSOLR 
+    #GETSOLR,
+    #UNPAKSOLR 
     ]
 
 
 #SECOND list of commands in sequence ## Comment Creata_collection after the first install
 cmds2 = [ 
     STARTSOLR,
-    CREATE_COLLECTION
+    #CREATE_COLLECTION
     ]
     
     
