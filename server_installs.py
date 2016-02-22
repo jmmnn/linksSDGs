@@ -44,7 +44,7 @@ cmds = [
 
 #SECOND list of commands in sequence ## Comment Creata_collection after the first install
 cmds2 = [ 
-    STARTSOLR,
+    #STARTSOLR,
     #CREATE_COLLECTION
     ]
     
@@ -64,9 +64,6 @@ for cmd in cmds:
     print "Running Command Number %s" % count
     subprocess.call(cmd, shell=True)
     
-os.chdir(dir + '/solr-5.4.0/')
-dir = os.getcwd()
-print dir
 
 ###### Iterates over the SECOND list of commands
 count2=0

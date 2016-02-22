@@ -10,15 +10,12 @@ import os
 
 #Solr start and config
 solr_port = '8081'
-STARTSOLR = "bin/solr start -p " + solr_port
+STARTSOLR = "solr-5.4.0/bin/solr start -p " + solr_port
 
 #order commands in sequence ## Uncomment these for 1st install
 cmds = [ 
     STARTSOLR
     ]
-
-dir = os.getcwd()
-os.chdir(dir + '/solr-5.4.0/')
 
 #Iterates over list, running statements for each item in the list
 count=0

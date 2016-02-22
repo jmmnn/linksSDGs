@@ -7,15 +7,20 @@ See the live demo at: http://192.169.173.168:8080/
 To implement this solution:
 
 0) start a virtual Ubuntu server
+
 1) Get setup script $ wget https://raw.githubusercontent.com/jmmnn/linksSDGs/V3/server_update.py
 
-3) Get installation script $ wget https://raw.githubusercontent.com/jmmnn/linksSDGs/V3/server_installs.py
-4) Run it: python server_installs.py
+3)  run it: $ python server_update.py
 
-5) Bring the entire solution to your server: $ git clone https://github.com/jmmnn/linksSDGs.git
+4) Get installation script $ wget https://raw.githubusercontent.com/jmmnn/linksSDGs/V3/server_installs.py
 
-6) change directory to the webapps folder: $ cd linksSDGs/Webapp_V_2_4/ 
-7) Run the Webapp $ nohup python index.py &
+5) Run it: python server_installs.py
+
+6) Bring the entire solution to your server: $ git clone https://github.com/jmmnn/linksSDGs.git
+
+7) Start solr: $ python linksSDGs/solr_start.py
+
+8) Start the Webapp $ nohup python linksSDGs/Webapp_V_2_4/index.py &
 
 For instructions see the readme.md file within each module.
 
