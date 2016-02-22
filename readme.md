@@ -20,7 +20,7 @@ To implement this solution:
 
 7) Start solr: $ python linksSDGs/start_solr.py
 
-8) Start the Webapp $ python linksSDGs/start_solr.py
+8) Start the Webapp $ python linksSDGs/start_webapp.py
 
 For instructions see the readme.md file within each module.
 
