@@ -6,7 +6,7 @@ import subprocess
 import sys
 import os
 
-#List commands to execute here.
+#List commands to execute hereself.
 
 #Server setup
 GIT = "sudo apt-get install git"
@@ -37,6 +37,7 @@ cmds = [
     GIT,
     PIP,
     JAVA,
+    UNZIP
     #GETSOLR,
     #UNPAKSOLR 
     ]
