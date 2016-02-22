@@ -22,6 +22,8 @@ To implement this solution:
 
 8) Start the Webapp $ python linksSDGs/start_webapp.py
 
+9) #Your APP will be available at: http://yourServer:8080/
+
 For instructions see the readme.md file within each module.
 
 All original work is licenced GPL 3.0. But the project relies heavily on other tools, all of which are opensource too under their respective license.
