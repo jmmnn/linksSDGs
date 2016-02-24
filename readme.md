@@ -24,8 +24,15 @@ To implement this solution:
 
 9) #Your APP will be available at: http://yourServer:8080/
 
+10) #Your Apache Solr Server will be available at: http://yourServer:8081/solr
+
+If both are working fine, for security:
+
+11) Enable the firewall to allow access only to the webapp $ python security_setup.py
+
+Test that you can still access the webapp, but not Solr.
+
+
 For instructions see the readme.md file within each module.
 
 All original work is licenced GPL 3.0. But the project relies heavily on other tools, all of which are opensource too under their respective license.
-
-JMN
