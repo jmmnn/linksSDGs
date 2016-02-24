@@ -28,7 +28,7 @@ To implement this solution:
 
 If both are working fine, for security:
 
-11) Enable the firewall to allow access only to the webapp $ python security_setup.py
+11) Enable the firewall to allow access only to the webapp $ python linksSDGs/security_setup.py
 
 Test that you can still access the webapp, but not Solr.
 
