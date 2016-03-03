@@ -1,7 +1,7 @@
 This repo contains the modules requred to run a solution to the Unite Ideas challenge: #LinksSDGs
 See details of the challenge at: https://unite.un.org/ideas/content/linkssdgs-natural-language-processing-and-data-visualization-challenge
 
-See the live demo at: http://192.169.173.168:8080/  
+See the live demo at: http://LinksSDGs.bebemama.org:8080/
 
 
 To implement this solution:
