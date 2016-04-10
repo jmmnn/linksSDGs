@@ -32,6 +32,8 @@ If both are working fine, for security:
 
 Test that you can still access the webapp, but not Solr.
 
+12) Enable a monitor script which will restart the webapp it it fails: $ nohup python linksSDGs/webapp_monitor.py &
+
 
 For instructions see the readme.md file within each module.
 
