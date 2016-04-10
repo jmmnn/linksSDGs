@@ -7,6 +7,7 @@ while True:
         print ('Webapp status, 200 means ok:')
         print(r.status_code)
         # prints the int of the status code:)
+        time.sleep(60)
     except requests.ConnectionError:
         print("failed to connect")
         subprocess.call("python linksSDGs/start_webapp.py" , shell=True)
