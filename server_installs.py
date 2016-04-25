@@ -19,7 +19,7 @@ UNZIP = "sudo apt-get install unzip"
 collection = "linksdgs"
 solr_port = "8081"
 
-GETSOLR = "wget http://archive.apache.org/dist/lucene/solr/5.4.0//solr-5.4.0.tgz"
+GETSOLR = "wget http://archive.apache.org/dist/lucene/solr/5.4.0/solr-5.4.0.tgz"
 UNPAKSOLR = "tar -xvf solr-5.4.0.tgz"
 STARTSOLR = "bin/solr start -p " + solr_port
 CREATE_COLLECTION = "bin/solr create -c " + collection
