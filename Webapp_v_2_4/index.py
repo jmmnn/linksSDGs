@@ -81,4 +81,4 @@ def sigma():
 
 if __name__ == '__main__':
     port = int(os.environ.get('PORT', flask_port))
-    app.run(host='0.0.0.0', port=port, debug=True)
+    app.run(host='0.0.0.0', port=port, debug=False)
