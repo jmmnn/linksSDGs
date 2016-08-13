@@ -24,7 +24,9 @@ To implement this solution:
 #install gunicorn  the first time
 $sudo apt-get install gunicorn
 
+## Use this if the service is down, then test.
 $ cd linksSDGs/Webapp_v_2_4/
+
 $ nohup gunicorn -b 0.0.0.0:8080 index:app &
 
 ### old script don't use anymore $ python linksSDGs/start_webapp.py
