@@ -9,7 +9,7 @@ import os
 #List commands to execute here.
 
 #Solr install and start
-GETSOLR = "wget http://mirror.cc.columbia.edu/pub/software/apache/lucene/solr/5.4.0/solr-5.4.0.tgz"
+GETSOLR = "wget http://archive.apache.org/dist/lucene/solr/5.4.0/solr-5.4.0.tgz"
 UNPAKSOLR = "tar -xvf solr-5.4.0.tgz"
 STARTSOLR = "bin/solr start -p $PORT"
 CREATE_COLLECTION = "bin/solr create -c linksdgs"
@@ -24,8 +24,8 @@ SOLRPY = "sudo pip install -U solrpy"
 
 #order commands in sequence ## Uncomment these for 1st install
 cmds = [ 
-    #GETSOLR,
-    #UNPAKSOLR, 
+    GETSOLR,
+    UNPAKSOLR, 
     #STARTSOLR,
     #CREATE_COLLECTION
     ]
@@ -34,11 +34,12 @@ cmds = [
 #more commands in sequence ## Comment Creata_collection after the first install
 cmds2 = [ 
     STARTSOLR,
-    #CREATE_COLLECTION
+    CREATE_COLLECTION
     ]
 
 
 print os.getcwd()
+rootdir = os.getcwd()
 
 #Iterates over list, running statements for each item in the list
 count=0
@@ -47,7 +48,7 @@ for cmd in cmds:
     print "Running Command Number %s" % count
     subprocess.call(cmd, shell=True)
     
-os.chdir('/home/ubuntu/workspace/solr-5.4.0/')
+os.chdir(rootdir + '/solr-5.4.0/')
 
 count2=0
 for cmd in cmds2:
