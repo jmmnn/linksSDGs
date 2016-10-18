@@ -1,3 +1,5 @@
+#This is a single class text classifier example using a Naive Bayes algorithm. It is an adaptstion of the tutorial by http://textblob.readthedocs.io/
+
 from textblob.classifiers import NaiveBayesClassifier
 from textblob import TextBlob
 
