@@ -10,3 +10,5 @@ However this example for simplicity only assigns one class to each sentence bein
 # Afterwards download corpus for text training
 $ python -m textblob.download_corpora
 
+#Finally, run the classification example and view the results on screen.
+$ python SDGclassifyer.py
