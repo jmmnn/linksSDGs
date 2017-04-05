@@ -46,17 +46,17 @@ All original work is licenced GPL 3.0. But the project relies heavily on other t
 
 Use a terminal connection to your Server. 
 
-Find out what is wrong:
-#Test the Solr server is running: 
+-Test the Solr server is running:  
   $ curl http://localhost:8081/solr
-#Test the Web application is running: 
+  
+#Test the Web application is running:  
   $ curl http://localhost:8080/
 
-If Solr down: 
+If Solr down:  
   $ python linksSDGs/start_solr.py
 
-If Webapp is down: 
-  $ cd linksSDGs/Webapp_v_2_4/
+If Webapp is down:  
+  $ cd linksSDGs/Webapp_v_2_4/    
   $ nohup gunicorn -b 0.0.0.0:8080 index:app &
 
 
