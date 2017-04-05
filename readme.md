@@ -20,16 +20,12 @@ To implement this solution:
 
 7) Start solr: $ python linksSDGs/start_solr.py
 
-8) Start the Webapp:
-#install gunicorn  the first time
-$sudo apt-get install gunicorn
+8) Install the Webserver, only the first time: 
+  $sudo apt-get install gunicorn
 
-## Use this if the service is down, then test.
-$ cd linksSDGs/Webapp_v_2_4/
-
-$ nohup gunicorn -b 0.0.0.0:8080 index:app &
-
-### old script don't use anymore $ python linksSDGs/start_webapp.py
+8) Start the webserver: 
+  $ cd linksSDGs/Webapp_v_2_4/
+  $ nohup gunicorn -b 0.0.0.0:8080 index:app &
 
 9) #Your APP will be available at: http://yourServer:8080/
 
@@ -41,10 +37,28 @@ If both are working fine, for security:
 
 Test that you can still access the webapp, but not Solr.
 
-12) 
-# don't enable this anymore:
-Enable a monitor script which will restart the webapp it it fails: $ nohup python linksSDGs/webapp_monitor.py &
-
 For instructions see the readme.md file within each module.
 
 All original work is licenced GPL 3.0. But the project relies heavily on other tools, all of which are opensource tools under their respective license.
+
+
+## Use this if the service is down, then test.
+
+Use a terminal connection to your Server. 
+
+Find out what is wrong:
+#Test the Solr server is running: 
+  $ curl http://localhost:8081/solr
+#Test the Web application is running: 
+  $ curl http://localhost:8080/
+
+If Solr down: 
+  $ python linksSDGs/start_solr.py
+
+If Webapp is down: 
+  $ cd linksSDGs/Webapp_v_2_4/
+  $ nohup gunicorn -b 0.0.0.0:8080 index:app &
+
+
+# Deprecated code, don't use this anymore:
+Enable a monitor script which will restart the webapp it it fails: $ nohup python linksSDGs/webapp_monitor.py &
