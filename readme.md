@@ -24,8 +24,8 @@ To implement this solution:
   $sudo apt-get install gunicorn
 
 8) Start the webserver: 
-  $ cd linksSDGs/Webapp_v_2_4/
-  $ nohup gunicorn -b 0.0.0.0:8080 index:app &
+  $ cd linksSDGs/Webapp_v_2_4/  
+  $ nohup gunicorn -b 0.0.0.0:8080 index:app &  
 
 9) #Your APP will be available at: http://yourServer:8080/
 
