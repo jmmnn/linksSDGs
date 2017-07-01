@@ -9,7 +9,9 @@ import sys
 
 SOLRPY = "sudo pip install -U solrpy"
 FLASK = "sudo pip install -U flask"
-START = "nohup python linksSDGs/Webapp_v_2_4/index.py &"
+#START = "nohup python linksSDGs/Webapp_v_2_4/index.py &"   #use this line for default flask server
+START = "nohup gunicorn -b 0.0.0.0:8080 index:app &"
+
 
 #order commands in sequence
 cmds = [SOLRPY, FLASK, START]
