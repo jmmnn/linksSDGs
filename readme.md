@@ -21,7 +21,9 @@ To implement this solution:
 7) Start solr: $ python linksSDGs/start_solr.py
 
 8) Install the Webserver, only the first time: 
-  $sudo apt-get install gunicorn
+  $sudo apt-get install gunicorn  
+  $sudo pip install -U solrpy  
+  $sudo pip install -U flask  
 
 8) Start the webserver: 
   $ cd linksSDGs/Webapp_v_2_4/  
