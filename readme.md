@@ -23,26 +23,41 @@ To implement this solution:
 8) Install the Webserver, only the first time: 
   $sudo apt-get install gunicorn  
   $sudo pip install -U solrpy  
-  $sudo pip install Flask
+  $sudo pip install Flask  
 
-8) Start the webserver: 
+8) Start the webserver:  
   $ cd linksSDGs/Webapp_v_2_4/  
   $ nohup gunicorn -b 0.0.0.0:8080 index:app &  
 
-9) #Your APP will be available at: http://yourServer:8080/
+9) #Your APP will be available at:  
+from terminal: $ curl http://localhost:8080/  
 
-10) #Your Apache Solr Server will be available at: http://yourServer:8081/solr
+10) #Your Apache Solr Server will be available at: 
+from terminal: $ curl http://localhost:8081/solr  
 
-If both are working fine, for security:
+If both WebApp and Solr are working fine from your terminal, try from an outside web browser:  
 
-11) Enable the firewall to allow access only to the webapp $ python linksSDGs/security_setup.py
+Webapp: from a remote web browser (this shuold fail because of your server's firewall): http://yourServerPublicIP:8080/  
+Solr: from a remote web browser (this shuold fail because of your server's firewall): http://yourServerPublicIP:8081/solr  
+
+Both of these shuld normally fail. This is because your cloud provider usually keeps servers closed from external acces by default.
+At this point, you need to configure your cloud servers "security rules" or "security groups" to open port 8080 to everyone.  
+
+Usually this is done by adding a Custom TCT rule which enables access to the port range 8080/8080 from originating IP addresses "0.0.0.0/0"  
+
+11) For additional security in your own box. Go back to the terminal and Enable the Ubuntu firewall to allow access only to the webapp (not solr).
+$ cd ..
+$ python security_setup.py  
 
 Test that you can still access the webapp, but not Solr.
 
-For instructions see the readme.md file within each module.
+----- You are done ------
+
+For more instructions see the readme.md file within each module.
 
 All original work is licenced GPL 3.0. But the project relies heavily on other tools, all of which are opensource tools under their respective license.
 
+---- In case of troubel -----  
 
 ## Use this if the service is down, then test.
 
