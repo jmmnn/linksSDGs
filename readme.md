@@ -6,7 +6,7 @@ See the live demo at: http://LinksSDGs.bebemama.org:8080/
 
 To implement this solution:
 
-0) start a virtual Ubuntu server
+0) start a virtual Ubuntu server (14.04)
 
 1) Get setup script $ wget https://raw.githubusercontent.com/jmmnn/linksSDGs/V3/server_update.py
 
