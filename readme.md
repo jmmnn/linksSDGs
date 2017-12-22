@@ -23,7 +23,7 @@ To implement this solution:
 8) Install the Webserver, only the first time: 
   $sudo apt-get install gunicorn  
   $sudo pip install -U solrpy  
-  $sudo pip install -U flask  
+  $sudo pip install Flask
 
 8) Start the webserver: 
   $ cd linksSDGs/Webapp_v_2_4/  
